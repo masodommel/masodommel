@@ -45,6 +45,10 @@ An interactive, browser-based map that lets players explore the SovereignMC worl
 
 ---
 
+### 📊 Stats
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=masodommel)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### 📫 Connect
 - **Discord:** `doml.`
 

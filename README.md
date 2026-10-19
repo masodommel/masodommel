@@ -30,7 +30,7 @@ I help maintain and run a Minecraft server and the interactive web experiences a
 
 ![SovereignMC Map Screenshot](./258611405.png)
 
-[SovereignMC](https://sovereignmc.net)
+# [SovereignMC](https://sovereignmc.net)
 
 The SovereignMC website server info, how to join, store, leaderboards, nation pages, rules, live war/battle tracking, and the interactive world map, all in one Next.js app.
 
